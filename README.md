@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xflibble
 - 👀 I’m interested in systems that solve real problems for real people (usually using software).
 - 🌱 I’m currently learning to bite my tongue :)
-- 💞️ I’m looking to collaborate on opinionated tools that will help product development for the masses, ideally focused on join the product world and the implementation.
+- 💞️ I’m looking to collaborate on opinionated tools that will help product development for the masses, ideally focused on joining the product perspective directly to the implementation.
 - 📫 How to reach me - xflibble at any major web mail.
 
 <!---
